@@ -1,5 +1,5 @@
 <template>
-    <div>this is home</div>
+    <div class="aa">this is home</div>
 </template>
 
 <script>
@@ -9,6 +9,8 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style scoped lang="stylus">
+.aa {
+  color red
+}
 </style>
